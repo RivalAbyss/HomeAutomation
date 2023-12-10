@@ -7,8 +7,9 @@ void setup() {
   pinMode(13, OUTPUT);  // Set pin 13 as an output for the bulb
   pinMode(12, OUTPUT);  // Set pin 12 as an output for the fan
   pinMode(7, INPUT);    // Set pin 4 as an input for the PIR motion sensor
-  // pinMode(5, OUTPUT);   // Set pin 5 as an output for the first servo motor
+  
   Serial.begin(9600);   // Initialize serial communication
+  
   digitalWrite(13, LOW);  // Turn off the bulb initially
   digitalWrite(12, LOW);  // Turn off the fan initially
   
