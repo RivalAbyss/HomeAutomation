@@ -43,3 +43,7 @@ void loop() {
   
   delay(100);  // Delay for stability
 }
+//https://cdn.shopify.com/s/files/1/0300/6424/6919/files/Circuit-Diagram-Home-Automation-using-Arduino-Uno.jpg?v=1692865152
+//https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWDzVEGUFYE1N8TF96M-_84yDDCWrpum-iQ&s
+//https://1.bp.blogspot.com/-DHqI1c7Bbio/X-y0JkcwwdI/AAAAAAAAMmo/Rf2N1J9lPsUs9gA8uyusnoveozHnIncjQCLcBGAsYHQ/s16000/automation.png
+//https://www.youtube.com/watch?v=_eFW_4HKhys
